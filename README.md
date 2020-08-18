@@ -19,7 +19,16 @@ In Unit I, students gain a comprehensive introduction to scientific computing, P
 
 In Unit II, students develop machine learning and statistical analysis skills through hands-on practice with open-ended investigations of real-world data. This unit has a heavy emphasis on creative use of the tools of data science to solve problems from multiple perspectives.
 
+> What was covered during the Unit 2: 
+  - Introduction to Machine Learning
+  - Regression and classification
+  - Metrics and overfitting
+  - Model selection
+  - Principal Component Analysis and Dimensionality Reduction, feature engineering
+  - Statistical methods and nonparametric analysis, probability distributions
+  - Ensemble methods
+  - Support Vector Machine and Natural Language Processing
 
-In this folder I publish my solutions of projects covered during classes of Unit 1 and Unit 2.  
+Here you can find examples of my solutions of projects covered during classes of Unit 1 and Unit 2.  
 
 
